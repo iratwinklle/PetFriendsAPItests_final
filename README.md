@@ -2,7 +2,7 @@
 
 Тестовый проект к 19 модулю SkillFactory курса QAP
 
-В директории /tests располагается файл с тестами
+В директории /tests располагается файл с тестами к сайту https://petfriends.skillfactory.ru/. Документация к PetFriends https://petfriends.skillfactory.ru/apidocs/
 
 В директории /tests/images лежат картинки для теста добавления питомца и теста добавления картинки
 
